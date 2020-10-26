@@ -16,7 +16,7 @@ def question4(arr):
                 result += right - arr[end]
             elif (arr[end] > right): 
                 right = arr[end]
-            end-= 1
+            end -= 1
     return result
 
 if __name__ == '__main__':
