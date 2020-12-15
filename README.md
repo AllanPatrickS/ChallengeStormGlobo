@@ -1,8 +1,6 @@
-# Desafio-Storm-Globo
-Desafio de backend da Storm
+# Challenge Storm Globo
+Challenge from the globo test.
 
-Para executar os arquivos utilize o seguinte comando
-
-```python nome_do_arquivo.py```
-
-No exercicio numero 3 foi considerado que apenas produções recursivas são aceitas.
+# How to run 
++ You must have python 2.5+ installed
++ You can run the files with `python question.py` inside of the project folder
